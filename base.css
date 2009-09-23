@@ -9,6 +9,8 @@ ul,ol{list-style:none;}
 address,cite{font-style:normal;}
 img{border:none;-ms-interpolation-mode:bicubic;}
 
+article,aside,dialog,figure,footer,header,hgroup,nav,section{display:block;}
+
 td,th{vertical-align:top;}
 caption,th{text-align:left;}
 
