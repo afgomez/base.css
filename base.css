@@ -50,11 +50,11 @@ input,textarea,select{font:1em Arial,Helvetica,sans-serif;}
 textarea{overflow:auto;}
 input[type="text"]{margin:0;}
 
-.estirar:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
-.estirar{display:inline-block;}
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+.clearfix{display:inline-block;}
 /*\*/
-.estirar{display:block;}
-* html .estirar{height:1px;}
+.clearfix{display:block;}
+* html .clearfix{height:1px;}
 /**/
 .izq,.col-i{float:left;display:inline;}
 .drcha,.col-d{float:right;display:inline;}
