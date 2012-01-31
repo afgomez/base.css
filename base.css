@@ -59,3 +59,10 @@ input[type="text"]{margin:0;}
 .izq,.col-i{float:left;display:inline;}
 .drcha,.col-d{float:right;display:inline;}
 .table{display:table;height:1%;}
+
+.debug_dump {
+  padding:10px !important;
+  font:13px Envy Code R, Inconsolata, Consolas, Courier new, courier !important;
+  background:#ffe !important;
+  border:1px solid #fc0 !important;
+}
