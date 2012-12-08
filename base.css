@@ -37,6 +37,7 @@ ul,ol,dl,dt,dd{padding:0;margin:0;}
 ul,ol{list-style:none;}
 address,cite{font-style:normal;}
 img{border:none;-ms-interpolation-mode:bicubic;}
+figure{margin:0;padding:0;}
 
 article,aside,dialog,figure,footer,header,hgroup,nav,section{display:block;}
 
